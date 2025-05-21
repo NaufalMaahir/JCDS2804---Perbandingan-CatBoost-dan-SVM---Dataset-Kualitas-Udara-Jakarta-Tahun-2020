@@ -71,6 +71,3 @@ Analisis ini membandingkan dua algoritma populer—**CatBoost** dan **Support Ve
 - Pandas, NumPy, Matplotlib
 
 ---
-
-## 📬 Kontak  
-Diskusi atau kolaborasi? Kunjungi profil LinkedIn saya!  
